@@ -34,12 +34,15 @@ This project is an application that visualizes the A* (A-star) pathfinding algor
    Open a terminal and run the following command to clone the project to your local machine:
    ```
    git clone https://github.com/GnasAI/AStarAlgorithm.git
+   ```
 2. **Install Pygame**:  If you haven't installed the Pygame library yet, you can install it using pip
    ```   
    pip install pygame
+   ```
 3. **Run the application**: Once Pygame is installed, you can run the program through your preferred Python IDE or via terminal with:
    ```   
    python main.py
+   ```
 ## How to Use
 
 1. **Draw Starting and Ending Points**:
@@ -70,9 +73,9 @@ This project is an application that visualizes the A* (A-star) pathfinding algor
 
 This project was developed using guidance from the following resources:
 
-1. [A* Pathfinding Algorithm - YouTube Tutorial by The Coding Train](https://youtu.be/aKYlikFAV4k?si=eol2ASkZBoetJJBH)
-2. [A* Algorithm Explained - YouTube by Computerphile](https://youtu.be/EaZxUCWAjb0?si=wr77i5ijkH3bh1rK)
-3. [A* Search Algorithm - YouTube by Sebastian Lague](https://youtu.be/jwRT4PCT6RU?si=P6D-5pDJ_7z-MWBx)
+1. [A* Pathfinding Algorithm - Part 1 - YouTube Tutorial by The Coding Train](https://youtu.be/aKYlikFAV4k?si=eol2ASkZBoetJJBH)
+2. [A* Pathfinding Algorithm - Part 2 - YouTube Tutorial by The Coding Train](https://youtu.be/EaZxUCWAjb0?si=wr77i5ijkH3bh1rK)
+3. [A* Pathfinding Algorithm - Part 3 - YouTube Tutorial by The Coding Train](https://youtu.be/jwRT4PCT6RU?si=P6D-5pDJ_7z-MWBx)
 4. [A* Pathfinding Visualization - YouTube by Tech With Tim](https://youtu.be/JtiK0DOeI4A?si=7Bn3IsnwOfhNFKKR)
 
 ## Contributing
