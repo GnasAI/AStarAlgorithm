@@ -96,6 +96,7 @@ def main(win,width):
                     start = None
                     end = None
                     found =False
+                    grid = make_grid(ROWS, width)
                     
                     
     pygame.quit()

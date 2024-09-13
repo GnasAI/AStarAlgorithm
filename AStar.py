@@ -3,7 +3,7 @@ clicked =  False
 found = None
 class Button():
         
-    #colours for button and text
+    
     button_clr = RED
     hover_clr = (75, 225, 255)
     click_clr = (50, 150, 255)

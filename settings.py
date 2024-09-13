@@ -6,7 +6,7 @@ import pygame
 
 WIDTH =600
 RANDOM_RATE = 2
-ROWS =100
+ROWS =5
 
 pygame.init()
 WIN = pygame.display.set_mode((WIDTH+180,WIDTH))
